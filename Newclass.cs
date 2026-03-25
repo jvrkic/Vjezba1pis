@@ -8,5 +8,6 @@ namespace Vjezba1pis
 {
     internal class Newclass
     {
+        Console.WriteLine("klasa"):
     }
 }
